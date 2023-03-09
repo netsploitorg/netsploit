@@ -13,4 +13,3 @@
     sudo make
 # Run
     sudo netsploit
-
